@@ -1,6 +1,24 @@
 oiii criei esse doc pra ir anotando umas coisas pra ajudar
 entao vamo la, primeiro passo:
 
+
 ctrl J (abrir terminal)
 digitar "cd marvel-api no terminal" (vai abrir a pasta onde ta localizado o projeto)
 digitar "npm run serve no terminal" (vai rodar o projeto localmente)
+
+
+cada branch é um "espaço" pra gente ir trabalhando sem afetar o principal (ent se algo der errado é so voltar atras)
+comandos da branch(usar no terminal)
+
+
+git checkout (nome da branch) - entrar na branch especifica
+git add . - adiciona as mudanças
+git commit -m "mensagem sobre as mudanças" - da commit nas mudanças
+git push - sincroniza seu repositório local com o remoto (branch)
+
+alem disso tem o:
+git merge (nome da branch) - sincroniza mudanças da branch atual com a que você escreveu (usar pra por as mudanças na branch principal main)
+git push - tem que dar um push também
+
+git pull - puxa as mudanças no repositorio remoto pro seu repositorio local (usar pra sincronizar o que cada um fez 
+e todos ficarem na mesma pagina)
