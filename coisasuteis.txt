@@ -1,0 +1,6 @@
+oiii criei esse doc pra ir anotando umas coisas pra ajudar
+entao vamo la, primeiro passo:
+
+ctrl J (abrir terminal)
+digitar "cd marvel-api no terminal" (vai abrir a pasta onde ta localizado o projeto)
+digitar "npm run serve no terminal" (vai rodar o projeto localmente)
